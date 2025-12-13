@@ -1,4 +1,4 @@
-# On Soft Clustering for Correlation Estimators: Model Uncertainty, Differentiability, and Surrogates
+# On Soft Clustering for Correlation Estimators
 
 ## Overview 
 
